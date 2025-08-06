@@ -50,7 +50,7 @@ Je suis Manita, une étudiante en Master informatique
 
 
   ## 💰 You can help me by Donating
-  [Ko-Fi](https://ko-fi.com/https://ko-fi.com/joceima) 
+  [Ko-Fi](https://ko-fi.com/joceima) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
