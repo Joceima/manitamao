@@ -45,11 +45,12 @@ Je suis Manita, une étudiante en Master informatique
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 ## 🌐 Mes réseaux sociaux
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/joceima.bsky.social‬) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manita-mao) 
+[Bluesky](https://bsky.app/profile/joceima.bsky.social‬) 
+[LinkedIn](https://linkedin.com/in/manita-mao) 
 
 
   ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/joceima) 
+  [Ko-Fi](https://ko-fi.com/https://ko-fi.com/joceima) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
