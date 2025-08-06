@@ -45,7 +45,7 @@ Je suis Manita, une étudiante en Master informatique
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
 ## 🌐 Mes réseaux sociaux
-[Bluesky](https://bsky.app/profile/joceima.bsky.social)‬) 
+[Bluesky](https://bsky.app/profile/joceima.bsky.social)‬
 [LinkedIn](https://linkedin.com/in/manita-mao) 
 
 
