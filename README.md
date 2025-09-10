@@ -11,14 +11,14 @@ Je suis Manita, une étudiante en Master informatique
 
 # 👩‍💻 PortFolio en informatique graphique :
 
-### [Images synthèses réalistes] Projet lancer de rayon et matériaux (M1 ISICG - Printemps 2025): 
+### 🟣[Images synthèses réalistes] Projet lancer de rayon et matériaux (M1 ISICG - Printemps 2025): 
 Sur l’image de ma scène finale (de gauche à droite) : la première sphère utilise unmatériau Lambertien diffus ; la deuxième est en plastique (modèle Phong) ; la troisièmeest un miroir (réflexion parfaite) ; la quatrième utilise un matériau doré Cook-Torrance,appliqué sur une surface implicite creusée ; la dernière sphère est transparente (modèleFresnel), placée devant une box-square implicite pour mettre en avant l’effet transparent. Le mur du fond est un miroir, ce qui permet de mieux voir l’implicite de la box-square. Les éléments que j’ai apportées concernent la gestion de la réfraction, l’ajout d’une lumière sphérique, et les débuts des opérations booléennes sur implicites.
 ![Imagine finale](https://github.com/user-attachments/assets/e2ea7879-18a2-46c8-be92-b74086ba1a3f)
 
-### [Vision par ordinateur] Générations de visages (M1 ISICG - Printemps 2025):
+### 🟣[Vision par ordinateur] Générations de visages (M1 ISICG - Printemps 2025):
 Implémentation d'un réseau antagonistes génératifs. ( Chargement des données, entraînement du réseaux de neuronnes, échantillonages et visualisation des visages)
 
-### [Moteur 3D] OpenGL (M1 ISICG - Printemps 2025) : 
+### 🟣[Moteur 3D] OpenGL (M1 ISICG - Printemps 2025) : 
 Implémentation de transformations 3D et projection, calcul d’éclairage locale et textures discrètes. Tentative d'implémentation de Shadow Mapping.
 ![opengl](https://github.com/user-attachments/assets/5decc32b-bae9-45ed-b751-b4697ab6344e)
 ![implementation_shadow_mapping](https://github.com/user-attachments/assets/bbd01090-4e45-4a8e-a2b8-c6d82ddbf10d)
