@@ -18,6 +18,10 @@ Sur l’image de ma scène finale (de gauche à droite) : la première sphère u
 ### [Vision par ordinateur] Générations de visages (M1 ISICG - Printemps 2025):
 Implémentation d'un réseau antagonistes génératifs. ( Chargement des données, entraînement du réseaux de neuronnes, échantillonages et visualisation des visages)
 
+### [Moteur 3D] Suivis des TPs d'OpenGL (M1 ISICG - Printemps 2025) : 
+Implémentation de transformations 3D et projection, calcul d’éclairage locale et textures discrètes. Tentative d'implémentation de Shadow Mapping.
+![opengl](https://github.com/user-attachments/assets/5decc32b-bae9-45ed-b751-b4697ab6344e)
+![implementation_shadow_mapping](https://github.com/user-attachments/assets/bbd01090-4e45-4a8e-a2b8-c6d82ddbf10d)
 
 
 # 📊 GitHub Stats:
