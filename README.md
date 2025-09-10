@@ -14,6 +14,7 @@ Je suis Manita, une étudiante en Master informatique
 - Projet lancer de rayon et matériaux : 
 Sur l’image de ma scène finale (de gauche à droite) : la première sphère utilise unmatériau Lambertien diffus ; la deuxième est en plastique (modèle Phong) ; la troisièmeest un miroir (réflexion parfaite) ; la quatrième utilise un matériau doré Cook-Torrance,appliqué sur une surface implicite creusée ; la dernière sphère est transparente (modèleFresnel), placée devant une box-square implicite pour mettre en avant l’effet transparent.Le mur du fond est un miroir, ce qui permet de mieux voir l’implicite de la box-square.Les éléments que j’ai apportées concernent la gestion de la réfraction, l’ajout d’une lumièresphérique, et les débuts des opérations booléennes sur implicites.
 
+![Imagine finale du projet synthèses d'images réalistes](/manitamao/images/image_isir.png)
 
 
 # 📊 GitHub Stats:
